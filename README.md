@@ -420,15 +420,10 @@ This project is for educational and interview purposes.
 
 ## 👨‍💻 Author
 
+Om s Bramhakshatriya
+
 Created as part of an AI/ML Intern technical assignment.
 
-## 📞 Support
 
-For questions or issues:
-- Check the `/docs` endpoint for API documentation
-- Review the test output in `test_results/`
-- Check logs for detailed error messages
-
----
 
 **Built with ❤️ using YOLOv8, FastAPI, and Python**
